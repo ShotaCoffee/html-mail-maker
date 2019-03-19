@@ -13,3 +13,5 @@ yarn
 src配下：編集するファイル
 dist/build配下：吐き出されたソースコード
 
+## 開発時
+yarn watch
