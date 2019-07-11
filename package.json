@@ -12,9 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "babel-preset-env": "^1.7.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-convert-encoding": "^2.0.1",
-    "gulp-inline-css": "^3.3.1",
+    "gulp-inline-css": "^3.3.2",
     "gulp-notify": "^3.2.0",
     "gulp-plumber": "^1.2.1",
     "gulp-sass": "^4.0.2",
